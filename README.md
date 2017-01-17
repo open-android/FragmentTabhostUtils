@@ -8,6 +8,12 @@
 ![image](https://github.com/yaochangliang159/Android-TabView/raw/master/screenshot/image_top.jpg)
 ![image](https://github.com/yaochangliang159/Android-TabView/raw/master/screenshot/image_right.jpg)
 ![image](https://github.com/yaochangliang159/Android-TabView/raw/master/screenshot/image_bottom.jpg)
+
+* 更多干货请下载app
+
+
+![黑马助手.png](http://upload-images.jianshu.io/upload_images/4037105-f777f1214328dcc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ## 使用步骤
 
 
