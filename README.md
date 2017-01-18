@@ -9,7 +9,7 @@
 ![image](https://github.com/yaochangliang159/Android-TabView/raw/master/screenshot/image_right.jpg)
 ![image](https://github.com/yaochangliang159/Android-TabView/raw/master/screenshot/image_bottom.jpg)
 
-* 更多干货请下载app
+* 爱生活,爱学习,更爱做代码的搬运工,分类查找更方便请下载黑马助手app
 
 
 ![黑马助手.png](http://upload-images.jianshu.io/upload_images/4037105-f777f1214328dcc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -90,7 +90,7 @@ Sync项目以后，引入这个库就成功了~~~
         tabView.setTabViewGravity(Gravity.TOP);
         tabView.setTabViewDefaultPosition(2);
 
-###在xml中自定义:
+### 在xml中自定义:
 
 	 <com.ycl.tabview.library.TabView
 	        android:id="@+id/tabView"
@@ -109,8 +109,8 @@ Sync项目以后，引入这个库就成功了~~~
 	        >
 	    </com.ycl.tabview.library.TabView>
 
-详细的使用方法在DEMO里面都演示啦,如果你觉得这个库还不错,请赏我一颗star吧~~~
+* 详细的使用方法在DEMO里面都演示啦,如果你觉得这个库还不错,请赏我一颗star吧~~~
 
-欢迎关注微信公众号
+* 欢迎关注微信公众号
 
 ![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/qrcode.png)
