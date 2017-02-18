@@ -4,11 +4,11 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.ycl.tabview.library.TabView
+    <com.heima.tabview.library.TabView
         android:id="@+id/tabView"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-    </com.ycl.tabview.library.TabView>
+    </com.heima.tabview.library.TabView>
 
 </LinearLayout>

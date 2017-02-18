@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ycl.tabview">
+    package="com.heima.tabview">
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name="com.heima.tabview.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -16,10 +16,10 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".QuickStartActivity"></activity>
-        <activity android:name=".CustomInXmlActivity"></activity>
-        <activity android:name=".CustomInJavaActivity"></activity>
-        <activity android:name=".UseInFragment"></activity>
+        <activity android:name="com.heima.tabview.QuickStartActivity"></activity>
+        <activity android:name="com.heima.tabview.CustomInXmlActivity"></activity>
+        <activity android:name="com.heima.tabview.CustomInJavaActivity"></activity>
+        <activity android:name="com.heima.tabview.UseInFragment"></activity>
 
     </application>
 
