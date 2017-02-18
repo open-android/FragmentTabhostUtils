@@ -30,7 +30,7 @@ Sync项目以后，引入这个库就成功了~~~
 ### 2. 在Module的build.gradle添加依赖
 
 
-    compile 'com.github.open-android:FragmentTabhostUtils:0.3.0'
+    compile 'com.github.open-android:FragmentTabhostUtils:0.4.0'
     
 ### 3. 在xml中,加入以下代码:
 
