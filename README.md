@@ -30,14 +30,15 @@ Sync项目以后，引入这个库就成功了~~~
 ### 2. 在Module的build.gradle添加依赖
 
 
-    compile 'com.github.open-android:FragmentTabhostUtils:0.2.0'
+    compile 'com.github.open-android:FragmentTabhostUtils:0.3.0'
+    
 ### 3. 在xml中,加入以下代码:
 
-	  <com.ycl.tabview.library.TabView
+	  <com.heima.tabview.library.TabView
 	        android:id="@+id/tabView"
 	        android:layout_width="match_parent"
 	        android:layout_height="match_parent">
-	  </com.ycl.tabview.library.TabView>
+	  </com.heima.tabview.library.TabView>
 
 
 ### 4. 在项目当中添加如下代码:
