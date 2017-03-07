@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+
     <com.heima.tabview.library.TabView
         android:id="@+id/tabView"
         android:layout_width="match_parent"
