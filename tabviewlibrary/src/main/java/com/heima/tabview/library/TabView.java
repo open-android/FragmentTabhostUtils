@@ -18,10 +18,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 作者：yaochangliang on 2016/8/13 17:36
- * 邮箱：yaochangliang159@sina.com
- */
+
 public class TabView extends RelativeLayout {
     private static final int RMP = RelativeLayout.LayoutParams.MATCH_PARENT;
     private static final int RWC = RelativeLayout.LayoutParams.WRAP_CONTENT;
