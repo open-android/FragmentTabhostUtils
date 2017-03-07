@@ -2,10 +2,7 @@ package com.heima.tabview.library;
 
 import android.support.v4.app.Fragment;
 
-/**
- * 作者：yaochangliang on 2016/8/13 18:37
- * 邮箱：yaochangliang159@sina.com
- */
+
 public class TabViewChild {
     private int imageViewSelIcon;
     private int imageViewUnSelIcon;
