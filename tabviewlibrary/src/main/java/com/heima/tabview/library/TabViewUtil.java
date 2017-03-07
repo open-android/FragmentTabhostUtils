@@ -3,10 +3,7 @@ package com.heima.tabview.library;
 import android.content.Context;
 import android.util.TypedValue;
 
-/**
- * 作者：yaochangliang on 2016/8/13 17:41
- * 邮箱：yaochangliang159@sina.com
- */
+
 public class TabViewUtil {
 
     public TabViewUtil() {
