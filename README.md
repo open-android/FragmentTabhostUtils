@@ -93,7 +93,7 @@ Sync项目以后，引入这个库就成功了~~~
 
 ### 在xml中自定义:
 
-	 <com.ycl.tabview.library.TabView
+	 <com.heima.tabview.library.TabView
 	        android:id="@+id/tabView"
 	        android:layout_width="match_parent"
 	        android:layout_height="match_parent"
@@ -108,7 +108,7 @@ Sync项目以后，引入这个库就成功了~~~
 	        app:tab_tabViewHeight="52dip"
 	        app:tab_textViewSize="14sp"
 	        >
-	    </com.ycl.tabview.library.TabView>
+	    </com.heima.tabview.library.TabView>
 
 * 详细的使用方法在DEMO里面都演示啦,如果你觉得这个库还不错,请赏我一颗star吧~~~
 
